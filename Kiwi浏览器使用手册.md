@@ -186,9 +186,7 @@ Yandex搜索
  Never搜索
 [https://search.naver.com/search.naver?query=](user_cancel)
 F搜
-https://fsou.cc/search?q=
-QuickSo
-https://quickso.eu.org/search?q=
+https://fsofso.com/search?q=
 如果你还有其他好用的搜索引擎，可以补充一下！
 
 #### 3.下载文件
@@ -543,8 +541,8 @@ QQ：2209514944
 微信：
 E-Mail：[muzihuaner@hotmail.com](muzihuaner@hotmail.com)
 酷安：欢哥科技
-版本:1.2.0
-最后更新：2021.12.29
+版本:1.2.1
+最后更新：2022.07.13
 编写不易，如果您喜欢这个文档，欢迎赞助我们，您的支持是我们最大的动力！
 [https://huangetech.gitee.io/pay/](https://huangetech.gitee.io/pay/)
 微信公众号：
